@@ -27,3 +27,38 @@ Welcome to the **Call of Duty Mobile Loadout UI** project. This repository showc
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/prateekp273/Call_of_duty_UI.git
+1. Navigate to the project directory and install dependencies:
+   ```bash
+     cd Call_of_duty_UI
+     flutter pub get
+
+2. Run the app:
+   ```bash
+     flutter run
+
+🛠 Built With
+- Flutter - UI toolkit for building natively compiled applications.
+- Dart - Language optimized for building mobile, desktop, and web apps.
+
+.
+🤝 Contribute
+Contributions are always welcome! 
+
+- Fork the repository.
+- Create a new branch for features or fixes.
+- Send us a pull request.
+- Ensure your code is neat and commented.
+
+
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🙌 Acknowledgments
+- Flutter Documentation
+- Dart Packages
+
+📞 Get in Touch
+For queries, suggestions, or feedback, drop us a line:
+
+- 📧 Email: prateekp18012000@gmail.com
+- 🐦 Twitter: @Prateekpatel273
